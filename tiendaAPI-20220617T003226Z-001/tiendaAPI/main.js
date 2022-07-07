@@ -82,4 +82,4 @@ function llenarDetalle(total, detalle){
     detallet.innerHTML = html
 }
           
-             
+//Una prueba           
