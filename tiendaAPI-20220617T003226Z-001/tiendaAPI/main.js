@@ -81,6 +81,6 @@ function llenarDetalle(total, detalle){
     var detallet = document.getElementById("detalleTbl");
     detallet.innerHTML = html
 }
-          
              
 //Prueba merge
+//Una prueba     
